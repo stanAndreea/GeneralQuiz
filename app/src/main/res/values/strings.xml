@@ -1,0 +1,54 @@
+<resources>
+    <string name="name_personal">Name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="quiz1">"1: What is the capital of Japan? "</string>
+    <string name="quiz2">"2: How many rings do they appear on the Olympic flag? "</string>
+    <string name="quiz3">"3: Who painted the Sistine Chapel? "</string>
+    <string name="quiz4">"4: What is the largest ocean in the world? "</string>
+    <string name="quiz6">6: What is a day?</string>
+    <string name="quiz7">7:Who invented alternating current?</string>
+    <string name="quiz8">8: When the World War II started?</string>
+    <string name="quiz9">9: What are the Seven Wonders of the Ancient World?</string>
+    <string name="quiz10">10: What is the largest country in the world?</string>
+    <string name="trying">Try Again</string>
+    <string name="hint">Enter the answer here</string>
+    <string name="punct">Find the score</string>
+    <string name="points">Points Obtained : </string>
+    <string name="an1">Oopsie! Better Luck Next Time!</string>
+    <string name="an2">Good ! Next time perfect!</string>
+    <string name="an3">Perfect! You are a master!</string>
+    <string name="answer10" translatable="false">Tokyo</string>
+    <string name="answer11" translatable="false"> 6</string>
+    <string name="answer12" translatable="false">Leonardo da Vinci</string>
+    <string name="answer13" translatable="false">Indian</string>
+    <string name="answer14" translatable="false">2018</string>
+    <string name="answer15">Rotation of planet Earth period relative to the Sun</string>
+    <string name="answer16" translatable="false">Elan Musk</string>
+    <string name="answer17">1 September 1939</string>
+    <string name="answer18">Great Pyramid of Giza , Hanging Gardens of Babylon</string>
+    <string name="answer20">Bucharest</string>
+    <string name="answer21" translatable="false">4</string>
+    <string name="answer22" translatable="false">Michelangelo</string>
+    <string name="answer23" translatable="false">Atlantic</string>
+    <string name="answer24" translatable="false">2017</string>
+    <string name="answer25">One orbitan period </string>
+    <string name="answer26" translatable="false">Nikola Tesla</string>
+    <string name="answer27">2 September 1945</string>
+    <string name="answer28">Mausoleum at Halicarnassus, Temple of Artemis at Ephesus</string>
+    <string name="answer30" translatable="false">Beijing</string>
+    <string name="answer31" translatable="false">5</string>
+    <string name="answer32" translatable="false">Sandro Botticelli</string>
+    <string name="answer33" translatable="false">Pacific </string>
+    <string name="answer34" translatable="false">1918</string>
+    <string name="answer35">Rotation of the Moon period relative to the Earth</string>
+    <string name="answer36" translatable="false">Issac Newton </string>
+    <string name="answer37">2 September 1940</string>
+    <string name="answer38">Great Wall of China , Statue of Zeus at Olympia  , Lighthouse of Alexandria</string>
+    <string name="answer48">Lighthouse of Alexandria , Statue of Zeus at Olympia , Colossus of Rhodes</string>
+    <string name="app_name">GeneralQuiz</string>
+    <string name="start_quiz">Quiz</string>
+    <string name="quiz5">5:What is the Roman numeral MMXVIII in the Arabic numeral form?</string>
+
+
+</resources>

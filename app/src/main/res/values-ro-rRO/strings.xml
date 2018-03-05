@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_personal">Nume</string>
+    <string name="quiz1">" 1: Care este capitala Japoniei ?"</string>
+    <string name="quiz4">4: Care este cel mai mare ocean din lume ?</string>
+    <string name="quiz2">"2: Cate inele apar pe steagul olimpic? "</string>
+    <string name="quiz3">3: Cine a pictat Capela Sixtina ?</string>
+    <string name="quiz5">"5: Care este numarul roman MMXVIII in forma numerica araba? "</string>
+    <string name="quiz6">6: Ce este o zi ?</string>
+    <string name="quiz7">"7: Cine a inventat curentul alternativ? "</string>
+    <string name="quiz8">"8: Când a început cel de-al doilea război mondial? "</string>
+    <string name="quiz9">"9: Care sunt cele șapte minuni ale lumii vechi? "</string>
+    <string name="trying">"Incearca din nou "</string>
+    <string name="points">"Puncte Obtinute : "</string>
+    <string name="answer15">Rotatia periodica a platetei Pamant fata de Soare</string>
+    <string name="answer17">1 Septembrie 1939</string>
+    <string name="answer18">Marea Piramida din Giza , Gradinile suspendate din Babilon</string>
+    <string name="answer20">Bucuresti</string>
+    <string name="answer25">"O rotatie periodica a Pamantului fata de axa sa "</string>
+    <string name="answer27">2 Septembrie 1945</string>
+    <string name="answer28">Mausoleul din Halicarnas , Templul zeitei Artemis din Efes</string>
+    <string name="answer35">Rotatia periodica a Lunii fata de Pamant</string>
+    <string name="answer37">2 Septembrie 1940</string>
+    <string name="answer38">Marele Zid Chinezesc , Statuia Lui Zeus din Olympia</string>
+    <string name="answer48">Farul din Alexandria , Statuia lui Zeus din Olympia , Colosus din Rhodes</string>
+    <string name="start_quiz">Intrebare</string>
+    <string name="app_name">TestCulturaGenerala</string>
+    <string name="an1">"Oopsie! Mult Noroc Data Viitoare ! "</string>
+    <string name="an2">"Bun ! Data viitoare perfect ! "</string>
+    <string name="an3">"Foarte Bine ! Esti un geniu ! "</string>
+    <string name="quiz10">10: Care este cea mai mare tara din lume?</string>
+    <string name="hint">Introdu raspunsul aici</string>
+    <string name="punct">Afla scorul</string>
+</resources>

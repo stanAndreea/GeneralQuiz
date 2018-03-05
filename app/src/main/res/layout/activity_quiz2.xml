@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.android.generalquiz.Quiz2Activity">
+
+        <TextView
+            android:id="@+id/text_quiz8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="@string/quiz9"
+            android:textSize="24sp" />
+
+        <CheckBox
+            android:id="@+id/check_box0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="@string/answer18"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/check_box1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/answer28"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/check_box2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="@string/answer38"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/check_box3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/answer48"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/next2_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/check_box3"
+            android:layout_marginLeft="100dp"
+            android:drawableLeft="@drawable/btn1"
+            android:text="Next" />
+
+    </LinearLayout>
+</ScrollView>
